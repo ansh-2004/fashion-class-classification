@@ -29,8 +29,8 @@ The model is a **deep neural network (DNN)** built using **TensorFlow and Keras*
 ## 🔥 Training Process
 - **Loss Function:** Sparse Categorical Crossentropy
 - **Optimizer:** Adam
-- **Batch Size:** 32
-- **Epochs:** 10
+- **Batch Size:** 512
+- **Epochs:** 50
 - **Test Accuracy:** 91%
 
 ## 🚀 How to Run the Project
