@@ -38,6 +38,7 @@ The model is a **deep neural network (DNN)** built using **TensorFlow and Keras*
 ```bash
 pip install tensorflow numpy pandas matplotlib seaborn
 ```
+### Donwload fashion-mnist_train (training dataset) from kaggle.
 
 ### 2️⃣ Run the Jupyter Notebook
 ```bash
